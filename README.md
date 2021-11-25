@@ -45,3 +45,35 @@
 
 
 ![111.jpg](https://i.loli.net/2021/11/25/LKeNvXWlAhuxgnQ.jpg)
+
+插入测试代码
+
+```bash
+sudo apt-get install git
+```
+
+```c
+#include<stdio.h>
+
+int main()
+{
+	printf("c\n");
+
+}
+```
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	printf("c++\n");
+	system("pause");
+	return 0;
+}
+```
+
+
+
+
